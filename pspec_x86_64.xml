@@ -19,52 +19,52 @@
 </Description>
         <PartOf>programming.haskell</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-pango-0.13.4.0.conf</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Attributes.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Attributes.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Attributes.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/BasicTypes.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/BasicTypes.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/BasicTypes.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Cairo.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Cairo.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Cairo.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Context.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Context.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Context.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Description.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Description.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Description.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Enums.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Enums.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Enums.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Font.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Font.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Font.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/GlyphStorage.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/GlyphStorage.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/GlyphStorage.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Layout.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Layout.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Layout.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Markup.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Markup.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Markup.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Rendering.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Rendering.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Rendering.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Structs.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Structs.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Types.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Types.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/Graphics/Rendering/Pango/Types.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.4.0/libHSpango-0.13.4.0-1urh85d5M3J57vaeAEYIjl-ghc8.0.1.so</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-pango-0.13.5.0.conf</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Attributes.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Attributes.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Attributes.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/BasicTypes.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/BasicTypes.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/BasicTypes.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Cairo.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Cairo.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Cairo.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Context.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Context.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Context.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Description.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Description.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Description.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Enums.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Enums.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Enums.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Font.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Font.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Font.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/GlyphStorage.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/GlyphStorage.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/GlyphStorage.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Layout.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Layout.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Layout.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Markup.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Markup.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Markup.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Rendering.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Rendering.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Rendering.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Structs.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Structs.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Types.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Types.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/Graphics/Rendering/Pango/Types.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/pango-0.13.5.0/libHSpango-0.13.5.0-LQfAv3dZuSt3yryXHvUFfO-ghc8.0.1.so</Path>
             <Path fileType="doc">/usr/share/doc</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/pango-0.13.4.0/Layout.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/pango-0.13.4.0/Makefile</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/pango-0.13.5.0/Layout.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/pango-0.13.5.0/Makefile</Path>
         </Files>
     </Package>
     <Package>
@@ -74,16 +74,16 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="2">haskell-pango</Dependency>
+            <Dependency release="3">haskell-pango</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2017-10-07</Date>
-            <Version>0.13.4.0</Version>
+        <Update release="3">
+            <Date>2018-04-28</Date>
+            <Version>0.13.5.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
             <Email>bmeyers@datadrake.com</Email>

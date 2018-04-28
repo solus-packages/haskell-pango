@@ -1,8 +1,8 @@
 name       : haskell-pango
-version    : 0.13.4.0
-release    : 2
+version    : 0.13.5.0
+release    : 3
 source     :
-    - https://hackage.haskell.org/package/pango-0.13.4.0/pango-0.13.4.0.tar.gz : 1f08c7e941f35c3be60b6b77347c0e9ac87feaca865aee21b0a5400b04d1ead4
+    - https://hackage.haskell.org/package/pango-0.13.5.0/pango-0.13.5.0.tar.gz : bf59b9273134e5d1c9c648a253e5a766cd1ef51afc2216175bce21a15b6d49e8
 license    : LGPL-2.1
 component  : programming.haskell
 summary    : This package provides a wrapper around the Pango C library that allows high-quality rendering of Unicode text. It can be used either with Cairo to output text in PDF, PS or other documents
