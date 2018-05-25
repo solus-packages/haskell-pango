@@ -61,7 +61,7 @@
             <Path fileType="library">/usr/lib64/ghc-8.2.2/pango-0.13.5.0/Graphics/Rendering/Pango/Types.chi</Path>
             <Path fileType="library">/usr/lib64/ghc-8.2.2/pango-0.13.5.0/Graphics/Rendering/Pango/Types.dyn_hi</Path>
             <Path fileType="library">/usr/lib64/ghc-8.2.2/pango-0.13.5.0/Graphics/Rendering/Pango/Types.hi</Path>
-            <Path fileType="library">/usr/lib64/x86_64-linux-ghc-8.2.2/libHSpango-0.13.5.0-AailEPEw8eRAgoMAaUy2o-ghc8.2.2.so</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/pango-0.13.5.0/libHSpango-0.13.5.0-AailEPEw8eRAgoMAaUy2o-ghc8.2.2.so</Path>
             <Path fileType="doc">/usr/share/doc</Path>
             <Path fileType="data">/usr/share/x86_64-linux-ghc-8.2.2/pango-0.13.5.0/Layout.hs</Path>
             <Path fileType="data">/usr/share/x86_64-linux-ghc-8.2.2/pango-0.13.5.0/Makefile</Path>
@@ -74,15 +74,15 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="4">haskell-pango</Dependency>
+            <Dependency release="5">haskell-pango</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2018-05-21</Date>
+        <Update release="5">
+            <Date>2018-05-25</Date>
             <Version>0.13.5.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>

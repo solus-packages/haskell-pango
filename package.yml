@@ -1,6 +1,6 @@
 name       : haskell-pango
 version    : 0.13.5.0
-release    : 4
+release    : 5
 source     :
     - https://hackage.haskell.org/package/pango-0.13.5.0/pango-0.13.5.0.tar.gz : bf59b9273134e5d1c9c648a253e5a766cd1ef51afc2216175bce21a15b6d49e8
 license    : LGPL-2.1
@@ -24,8 +24,10 @@ builddeps  :
     - haskell-random-devel
     - haskell-text-devel
     - haskell-vector-devel
+optimize   : no-symbols
+networking : yes
 setup      : |
-    %cabal_configure
+    %cabal_configure --dynlibdir="\$libdir/\$compiler/\$pkgid"
 build      : |
     %cabal_build
 install    : |
